@@ -1,6 +1,7 @@
 import pandas
+
 import calculate
-from calculate import *
+from calculate import x
 
 print("Hello World!")
 print(calculate.x)
